@@ -6,10 +6,10 @@
 
 #pragma once
 
-#include "..\..\inc\natives.h"
-#include "..\..\inc\types.h"
-#include "..\..\inc\enums.h"
+#include <scripthookv/natives.h>
+#include <scripthookv/types.h>
+#include <scripthookv/enums.h>
 
-#include "..\..\inc\main.h"
+#include <scripthookv/main.h>
 
 void ScriptMain();
