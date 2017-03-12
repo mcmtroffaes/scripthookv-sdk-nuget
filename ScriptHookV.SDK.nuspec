@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ScriptHookV.SDK</id>
+    <version>0.1.2</version>
+    <authors>Alexander Blade</authors>
+    <owners>Matthias C. M. Troffaes</owners>
+    <projectUrl>http://www.dev-c.com/gtav/scripthookv/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ScriptHookV allows to use GTA V script native functions in custom *.asi plugins. This package only contains the header files and the lib file for the development of plugins. Source: http://www.dev-c.com/files/ScriptHookV_SDK_1.0.617.1a.zip</description>
+    <copyright>Copyright 2015-2016</copyright>
+    <tags>native</tags>
+  </metadata>
+  <files>
+    <file src="build\**" target="build" />
+  </files>
+</package>
