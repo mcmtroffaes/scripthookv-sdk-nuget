@@ -1,0 +1,7 @@
+*.nupkg
+*.VC.db
+*.VC.VC.opendb
+*.vcxproj.user
+.vs/
+x64/
+packages/
