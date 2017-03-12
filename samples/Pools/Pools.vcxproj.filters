@@ -5,23 +5,9 @@
     <ClCompile Include="script.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\inc\enums.h">
-      <Filter>include</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\inc\natives.h">
-      <Filter>include</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\inc\types.h">
-      <Filter>include</Filter>
-    </ClInclude>
     <ClInclude Include="script.h" />
-    <ClInclude Include="..\..\inc\main.h">
-      <Filter>include</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Filter Include="include">
-      <UniqueIdentifier>{5d58942b-ebbf-4d0a-9526-359e3a556796}</UniqueIdentifier>
-    </Filter>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
