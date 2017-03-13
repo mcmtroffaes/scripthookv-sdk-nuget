@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>ScriptHookV.SDK</id>
-    <version>0.1.4</version>
+    <version>0.1.5</version>
     <authors>Alexander Blade</authors>
     <owners>Matthias C. M. Troffaes</owners>
     <projectUrl>http://www.dev-c.com/gtav/scripthookv/</projectUrl>
